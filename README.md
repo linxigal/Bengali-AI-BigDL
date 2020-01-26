@@ -10,5 +10,7 @@ Kaggle site: https://www.kaggle.com/c/bengaliai-cv19
 
 Might need to run the following first:
 
+```
 sudo apt install openjdk-8-jdk
 sudo update-alternatives --config java
+```
